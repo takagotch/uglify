@@ -1,4 +1,4 @@
-
+---
 https://github.com/mishoo/UglifyJS
 
 https://www.npmjs.com/package/uglify-js
